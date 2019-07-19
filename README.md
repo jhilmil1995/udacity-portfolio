@@ -1,5 +1,5 @@
 # udacity-portfolio
-In this repository, you will find my portfolio for udacy frontend nanodegree.
+In this repository, you will find my portfolio for udacity frontend nanodegree.
 
 ## Run Program
 
