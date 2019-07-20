@@ -60,6 +60,10 @@ header p {
   font-size: 12px;
 }
 
+header img {
+  float:left;
+}
+
 /* Container for flexboxes */
 section {
   display: -webkit-flex;
